@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.61 (2018-08-28)
+
+  * learning...
+  * fixed emojis...
+  
 ## 0.0.6 (2018-08-23)
 
   * use colors in terminal for QR qode
